@@ -1,0 +1,10 @@
+@relation jobs
+@attribute Economy {Good,Bad}
+@attribute Expansion {No,Yes}
+@attributebute Revenue numeric
+
+@data
+Good,No,4
+Bad,No,1.5
+Good,Yes,7
+Bad,Yes,3
