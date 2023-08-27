@@ -1,0 +1,13 @@
+@relation fruit
+
+@attribute TID {1,2,3,4,5,6,7,8}
+@attribute Items {'Bread, Peanuts, Milk, Fruit,Jam','Bread, Jam, Soda, Chips, Milk, Fruit','Steak, Jam, Soda, Chips, Bread','Jam, Soda, Peanuts, Milk, Fruit','Jam, Soda, Chips, Milk, Bread','Fruit, Soda, Chips, Milk','Fruit, Soda, Peanuts, Milk','Fruit, Peanuts, Cheese, Yogurt'}
+
+@data
+1,'Bread, Peanuts, Milk, Fruit,Jam'
+2,'Bread, Jam, Soda, Chips, Milk, Fruit'
+3,'Steak, Jam, Soda, Chips, Bread'
+4,'Jam, Soda, Peanuts, Milk, Fruit'
+5,'Jam, Soda, Chips, Milk, Bread'
+6,'Fruit, Soda, Chips, Milk'
+7,'Fruit, Peanuts, Cheese, Yogurt'
